@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exer">
+        <item>Peito</item>
+        <item>Braços</item>
+        <item>Pernas</item>
+        <item>Costas</item>
+    </string-array>
+    <string-array name="exer_desc">
+        <item>3 séries de 15 repetições.\nSérie com intervalo de 1 min.</item>
+        <item>3 séries de 15 repetições.\nSérie com intervalo de 1 min.</item>
+        <item>3 séries de 15 repetições.\nSérie com intervalo de 1 min.</item>
+        <item>3 séries de 15 repetições.\nSérie com intervalo de 1 min.</item>
+        <item>3 séries de 15 repetições.\nSérie com intervalo de 1 min.</item>
+    </string-array>
+    <string-array name="exer_details">
+        <item>- Crucifixo (ou Fly)\n- Crossover (ou Pulley Cruzado)\n- Supino Inclinado\n- Supino Reto</item>
+        <item>- Rosca Direta com halteres\n- Rosca Concentrada\n- Rosca polia baixa\n- Rosca Martelo Alternado</item>
+        <item>- Agachamento\n- Leg Press\n- Extensora\n- Flexora\n- Adutora\n- Abdutora</item>
+        <item>- Puxador alto, com a pegada um pouco mais aberta do que a linha dos ombros;\n- Remada, em posição pronada é uma boa opção;</item>
+    </string-array>
+    <array name="exer_picture">
+        <item>@drawable/peito</item>
+        <item>@drawable/braco</item>
+        <item>@drawable/perna</item>
+        <item>@drawable/costas</item>
+    </array>
+
+    <array name="exer2_picture">
+        <item>@drawable/supino_exer</item>
+        <item>@drawable/crucifixo_declinado</item>
+        <item>@drawable/crossover</item>
+    </array>
+    <array name="exer3_picture">
+        <item>@drawable/rosca_direta</item>
+        <item>@drawable/rosca_concetrada</item>
+        <item>@drawable/rosca_martelo</item>
+    </array>
+    <array name="exer4_picture">
+        <item>@drawable/agachamento</item>
+        <item>@drawable/leg_press</item>
+        <item>@drawable/mesa_flexora</item>
+    </array>
+    <array name="exer5_picture">
+        <item>@drawable/remada</item>
+        <item>@drawable/barra_dev</item>
+        <item>@drawable/pulley_costas</item>
+    </array>
+    <string-array name="peito_exer">
+        <item>Supino inclinado</item>
+        <item>Crucifixo</item>
+        <item>Crossver</item>
+    </string-array>
+    <string-array name="braco_exer">
+        <item>Rosca direta</item>
+        <item>Rosca concentrada</item>
+        <item>Rosca martelo</item>
+    </string-array>
+    <string-array name="perna_exer">
+        <item>Agachamento</item>
+        <item>Leg Press</item>
+        <item>Flexora</item>
+    </string-array>
+    <string-array name="costa_exer">
+        <item>Remada</item>
+        <item>Desenvolvimento com barra</item>
+        <item>Puchador nuca</item>
+        <item></item>
+    </string-array>
+
+</resources>
